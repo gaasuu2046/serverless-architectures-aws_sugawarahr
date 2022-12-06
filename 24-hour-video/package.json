@@ -14,6 +14,6 @@
   "author": "Peter Sbarski",
   "license": "MIT",
   "devDependencies": {
-    "local-web-server": "^1.2.8"
+    "local-web-server": "^5.2.1"
   }
 }
